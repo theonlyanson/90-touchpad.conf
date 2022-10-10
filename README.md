@@ -1,6 +1,5 @@
 # i3wm-touchpad-gesture
 
-###clone this project in /etc/X11/xorg.conf.d/
 
 
 ##Method 1:
